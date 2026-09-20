@@ -1,0 +1,1698 @@
+{
+  "textbooks": [
+    {
+      "id": "peryshkin",
+      "title": "Физика. 7–9 классы",
+      "author": "А. В. Перышкин",
+      "grades": [
+        {
+          "id": 7,
+          "title": "7 класс",
+          "sections": [
+            {
+              "id": "vvedenie",
+              "title": "Введение",
+              "topics": [
+                {
+                  "id": "peryshkin-7-chto-izuchaet-fizika",
+                  "title": "§1. Что изучает физика",
+                  "file": "peryshkin/07/vvedenie/01-chto-izuchaet-fizika.md"
+                },
+                {
+                  "id": "peryshkin-7-fizicheskie-terminy",
+                  "title": "§2. Некоторые физические термины",
+                  "file": "peryshkin/07/vvedenie/02-fizicheskie-terminy.md"
+                },
+                {
+                  "id": "peryshkin-7-nablyudeniya-opyty",
+                  "title": "§3. Наблюдения и опыты",
+                  "file": "peryshkin/07/vvedenie/03-nablyudeniya-opyty.md"
+                },
+                {
+                  "id": "peryshkin-7-fizicheskie-velichiny",
+                  "title": "§4. Физические величины. Измерение физических величин",
+                  "file": "peryshkin/07/vvedenie/04-fizicheskie-velichiny.md"
+                },
+                {
+                  "id": "peryshkin-7-tochnost-pogreshnost",
+                  "title": "§5. Точность и погрешность измерений",
+                  "file": "peryshkin/07/vvedenie/05-tochnost-pogreshnost.md"
+                },
+                {
+                  "id": "peryshkin-7-fizika-i-tehnika",
+                  "title": "§6. Физика и техника",
+                  "file": "peryshkin/07/vvedenie/06-fizika-i-tehnika.md"
+                }
+              ]
+            },
+            {
+              "id": "stroenie-veshchestva",
+              "title": "Первоначальные сведения о строении вещества",
+              "topics": [
+                {
+                  "id": "peryshkin-7-stroenie-veshchestva",
+                  "title": "§7. Строение вещества",
+                  "file": "peryshkin/07/stroenie-veshchestva/01-stroenie-veshchestva.md"
+                },
+                {
+                  "id": "peryshkin-7-molekuly",
+                  "title": "§8. Молекулы",
+                  "file": "peryshkin/07/stroenie-veshchestva/02-molekuly.md"
+                },
+                {
+                  "id": "peryshkin-7-brounovskoe-dvizhenie",
+                  "title": "§9. Броуновское движение",
+                  "file": "peryshkin/07/stroenie-veshchestva/03-brounovskoe-dvizhenie.md"
+                },
+                {
+                  "id": "peryshkin-7-diffuziya",
+                  "title": "§10. Диффузия в газах, жидкостях и твёрдых телах",
+                  "file": "peryshkin/07/stroenie-veshchestva/04-diffuziya.md"
+                },
+                {
+                  "id": "peryshkin-7-prityazhenie-ottalkivanie",
+                  "title": "§11. Взаимное притяжение и отталкивание молекул",
+                  "file": "peryshkin/07/stroenie-veshchestva/05-prityazhenie-ottalkivanie.md"
+                },
+                {
+                  "id": "peryshkin-7-agregatnye-sostoyaniya",
+                  "title": "§12. Агрегатные состояния вещества",
+                  "file": "peryshkin/07/stroenie-veshchestva/06-agregatnye-sostoyaniya.md"
+                },
+                {
+                  "id": "peryshkin-7-razlichie-stroeniya",
+                  "title": "§13. Различие в молекулярном строении твёрдых тел, жидкостей и газов",
+                  "file": "peryshkin/07/stroenie-veshchestva/07-razlichie-stroeniya.md"
+                }
+              ]
+            },
+            {
+              "id": "vzaimodejstvie-tel",
+              "title": "Взаимодействие тел",
+              "topics": [
+                {
+                  "id": "peryshkin-7-mehanicheskoe-dvizhenie",
+                  "title": "§14. Механическое движение",
+                  "file": "peryshkin/07/vzaimodejstvie-tel/01-mehanicheskoe-dvizhenie.md"
+                },
+                {
+                  "id": "peryshkin-7-ravnomernoe-neravnomernoe",
+                  "title": "§15. Равномерное и неравномерное движение",
+                  "file": "peryshkin/07/vzaimodejstvie-tel/02-ravnomernoe-neravnomernoe.md"
+                },
+                {
+                  "id": "peryshkin-7-skorost",
+                  "title": "§16. Скорость. Единицы скорости",
+                  "file": "peryshkin/07/vzaimodejstvie-tel/03-skorost.md"
+                },
+                {
+                  "id": "peryshkin-7-raschet-puti-vremeni",
+                  "title": "§17. Расчёт пути и времени движения",
+                  "file": "peryshkin/07/vzaimodejstvie-tel/04-raschet-puti-vremeni.md"
+                },
+                {
+                  "id": "peryshkin-7-inerciya",
+                  "title": "§18. Инерция",
+                  "file": "peryshkin/07/vzaimodejstvie-tel/05-inerciya.md"
+                },
+                {
+                  "id": "peryshkin-7-vzaimodejstvie-tel",
+                  "title": "§19. Взаимодействие тел",
+                  "file": "peryshkin/07/vzaimodejstvie-tel/06-vzaimodejstvie-tel.md"
+                },
+                {
+                  "id": "peryshkin-7-massa-tela",
+                  "title": "§20. Масса тела. Единицы массы",
+                  "file": "peryshkin/07/vzaimodejstvie-tel/07-massa-tela.md"
+                },
+                {
+                  "id": "peryshkin-7-izmerenie-massy",
+                  "title": "§21. Измерение массы тела на весах",
+                  "file": "peryshkin/07/vzaimodejstvie-tel/08-izmerenie-massy.md"
+                },
+                {
+                  "id": "peryshkin-7-plotnost",
+                  "title": "§22. Плотность вещества",
+                  "file": "peryshkin/07/vzaimodejstvie-tel/09-plotnost.md"
+                },
+                {
+                  "id": "peryshkin-7-raschet-massy-obema",
+                  "title": "§23. Расчёт массы и объёма тела по его плотности",
+                  "file": "peryshkin/07/vzaimodejstvie-tel/10-raschet-massy-obema.md"
+                },
+                {
+                  "id": "peryshkin-7-sila",
+                  "title": "§24. Сила",
+                  "file": "peryshkin/07/vzaimodejstvie-tel/11-sila.md"
+                },
+                {
+                  "id": "peryshkin-7-sila-tyagesti",
+                  "title": "§25. Явление тяготения. Сила тяжести",
+                  "file": "peryshkin/07/vzaimodejstvie-tel/12-sila-tyagesti.md"
+                },
+                {
+                  "id": "peryshkin-7-sila-uprugosti",
+                  "title": "§26. Сила упругости. Закон Гука",
+                  "file": "peryshkin/07/vzaimodejstvie-tel/13-sila-uprugosti.md"
+                },
+                {
+                  "id": "peryshkin-7-ves-tela",
+                  "title": "§27. Вес тела",
+                  "file": "peryshkin/07/vzaimodejstvie-tel/14-ves-tela.md"
+                },
+                {
+                  "id": "peryshkin-7-edinicy-sily",
+                  "title": "§28. Единицы силы. Связь между силой тяжести и массой тела",
+                  "file": "peryshkin/07/vzaimodejstvie-tel/15-edinicy-sily.md"
+                },
+                {
+                  "id": "peryshkin-7-sila-tyagesti-planety",
+                  "title": "§29. Сила тяжести на других планетах",
+                  "file": "peryshkin/07/vzaimodejstvie-tel/16-sila-tyagesti-planety.md"
+                },
+                {
+                  "id": "peryshkin-7-dinamometr",
+                  "title": "§30. Динамометр",
+                  "file": "peryshkin/07/vzaimodejstvie-tel/17-dinamometr.md"
+                },
+                {
+                  "id": "peryshkin-7-ravnodejstvuyushchaya",
+                  "title": "§31. Сложение двух сил. Равнодействующая сил",
+                  "file": "peryshkin/07/vzaimodejstvie-tel/18-ravnodejstvuyushchaya.md"
+                },
+                {
+                  "id": "peryshkin-7-sila-treniya",
+                  "title": "§32. Сила трения",
+                  "file": "peryshkin/07/vzaimodejstvie-tel/19-sila-treniya.md"
+                },
+                {
+                  "id": "peryshkin-7-trenie-pokoya",
+                  "title": "§33. Трение покоя",
+                  "file": "peryshkin/07/vzaimodejstvie-tel/20-trenie-pokoya.md"
+                },
+                {
+                  "id": "peryshkin-7-trenie-v-prirode-tehnike",
+                  "title": "§34. Трение в природе и технике",
+                  "file": "peryshkin/07/vzaimodejstvie-tel/21-trenie-v-prirode-tehnike.md"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "title": "8 класс",
+          "sections": [
+            {
+              "id": "teplovye-yavleniya",
+              "title": "Тепловые явления",
+              "topics": [
+                {
+                  "id": "peryshkin-8-teplovoe-dvizhenie-temperatura",
+                  "title": "Тепловое движение. Температура",
+                  "file": "peryshkin/08/teplovye-yavleniya/01-teplovoe-dvizhenie-temperatura.md"
+                },
+                {
+                  "id": "peryshkin-8-vnutrennyaya-energiya",
+                  "title": "Внутренняя энергия. Способы её изменения",
+                  "file": "peryshkin/08/teplovye-yavleniya/02-vnutrennyaya-energiya.md"
+                },
+                {
+                  "id": "peryshkin-8-teploprovodnost-konvekciya-izluchenie",
+                  "title": "Теплопроводность. Конвекция. Излучение",
+                  "file": "peryshkin/08/teplovye-yavleniya/03-teploprovodnost-konvekciya-izluchenie.md"
+                },
+                {
+                  "id": "peryshkin-8-kolichestvo-teploty",
+                  "title": "Количество теплоты. Удельная теплоёмкость",
+                  "file": "peryshkin/08/teplovye-yavleniya/04-kolichestvo-teploty.md"
+                },
+                {
+                  "id": "peryshkin-8-udelnaya-teplota-sgoraniya",
+                  "title": "Удельная теплота сгорания топлива",
+                  "file": "peryshkin/08/teplovye-yavleniya/05-udelnaya-teplota-sgoraniya.md"
+                },
+                {
+                  "id": "peryshkin-8-plavlenie-otverdevanie",
+                  "title": "Плавление и отвердевание",
+                  "file": "peryshkin/08/teplovye-yavleniya/06-plavlenie-otverdevanie.md"
+                },
+                {
+                  "id": "peryshkin-8-ispanenie-kipenie",
+                  "title": "Испарение и конденсация. Кипение",
+                  "file": "peryshkin/08/teplovye-yavleniya/07-ispanenie-kipenie.md"
+                },
+                {
+                  "id": "peryshkin-8-vlazhnost-vozduha",
+                  "title": "Влажность воздуха",
+                  "file": "peryshkin/08/teplovye-yavleniya/08-vlazhnost-vozduha.md"
+                }
+              ]
+            },
+            {
+              "id": "elektricheskie-yavleniya",
+              "title": "Электрические явления",
+              "topics": [
+                {
+                  "id": "peryshkin-8-elektrizaciya-zaryad",
+                  "title": "Электризация тел. Электрический заряд",
+                  "file": "peryshkin/08/elektricheskie-yavleniya/01-elektrizaciya-zaryad.md"
+                },
+                {
+                  "id": "peryshkin-8-stroenie-atoma",
+                  "title": "Строение атома",
+                  "file": "peryshkin/08/elektricheskie-yavleniya/02-stroenie-atoma.md"
+                },
+                {
+                  "id": "peryshkin-8-elektricheskij-tok-istochniki",
+                  "title": "Электрический ток. Источники тока",
+                  "file": "peryshkin/08/elektricheskie-yavleniya/03-elektricheskij-tok-istochniki.md"
+                },
+                {
+                  "id": "peryshkin-8-sila-toka-ampermetr",
+                  "title": "Сила тока. Амперметр",
+                  "file": "peryshkin/08/elektricheskie-yavleniya/04-sila-toka-ampermetr.md"
+                },
+                {
+                  "id": "peryshkin-8-napryazhenie-voltmetr",
+                  "title": "Напряжение. Вольтметр",
+                  "file": "peryshkin/08/elektricheskie-yavleniya/05-napryazhenie-voltmetr.md"
+                },
+                {
+                  "id": "peryshkin-8-zakon-oma-soprotivlenie",
+                  "title": "Электрическое сопротивление. Закон Ома",
+                  "file": "peryshkin/08/elektricheskie-yavleniya/06-zakon-oma-soprotivlenie.md"
+                },
+                {
+                  "id": "peryshkin-8-soedinenie-provodnikov",
+                  "title": "Последовательное и параллельное соединение",
+                  "file": "peryshkin/08/elektricheskie-yavleniya/07-soedinenie-provodnikov.md"
+                },
+                {
+                  "id": "peryshkin-8-rabota-moshchnost-dzhoulya-lenca",
+                  "title": "Работа и мощность тока. Закон Джоуля–Ленца",
+                  "file": "peryshkin/08/elektricheskie-yavleniya/08-rabota-moshchnost-dzhoulya-lenca.md"
+                }
+              ]
+            },
+            {
+              "id": "elektromagnitnye-yavleniya",
+              "title": "Электромагнитные явления",
+              "topics": [
+                {
+                  "id": "peryshkin-8-magnitnoe-pole-magnity",
+                  "title": "Магнитное поле. Магниты",
+                  "file": "peryshkin/08/elektromagnitnye-yavleniya/01-magnitnoe-pole-magnity.md"
+                },
+                {
+                  "id": "peryshkin-8-pole-toka-elektromagnit",
+                  "title": "Магнитное поле тока. Электромагнит",
+                  "file": "peryshkin/08/elektromagnitnye-yavleniya/02-pole-toka-elektromagnit.md"
+                },
+                {
+                  "id": "peryshkin-8-magnitnoe-pole-zemli",
+                  "title": "Магнитное поле Земли",
+                  "file": "peryshkin/08/elektromagnitnye-yavleniya/03-magnitnoe-pole-zemli.md"
+                }
+              ]
+            },
+            {
+              "id": "svetovye-yavleniya",
+              "title": "Световые явления",
+              "topics": [
+                {
+                  "id": "peryshkin-8-svet-otrazhenie",
+                  "title": "Свет. Отражение света",
+                  "file": "peryshkin/08/svetovye-yavleniya/01-svet-otrazhenie.md"
+                },
+                {
+                  "id": "peryshkin-8-prelomlenie-sveta",
+                  "title": "Преломление света",
+                  "file": "peryshkin/08/svetovye-yavleniya/02-prelomlenie-sveta.md"
+                },
+                {
+                  "id": "peryshkin-8-linzy",
+                  "title": "Линзы. Оптическая сила линзы",
+                  "file": "peryshkin/08/svetovye-yavleniya/03-linzy.md"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "title": "9 класс",
+          "sections": [
+            {
+              "id": "zakony-vzaimodejstviya",
+              "title": "Законы взаимодействия и движения тел",
+              "topics": [
+                {
+                  "id": "peryshkin-9-materialnaya-tochka-peremeshchenie",
+                  "title": "Материальная точка. Система отсчёта. Перемещение",
+                  "file": "peryshkin/09/zakony-vzaimodejstviya/01-materialnaya-tochka-peremeshchenie.md"
+                },
+                {
+                  "id": "peryshkin-9-ravnomernoe-dvizhenie",
+                  "title": "Прямолинейное равномерное движение",
+                  "file": "peryshkin/09/zakony-vzaimodejstviya/02-ravnomernoe-dvizhenie.md"
+                },
+                {
+                  "id": "peryshkin-9-ravnouskorennoe-uskorenie",
+                  "title": "Прямолинейное равноускоренное движение. Ускорение",
+                  "file": "peryshkin/09/zakony-vzaimodejstviya/03-ravnouskorennoe-uskorenie.md"
+                },
+                {
+                  "id": "peryshkin-9-peremeshchenie-ravnouskorennoe",
+                  "title": "Перемещение при равноускоренном движении",
+                  "file": "peryshkin/09/zakony-vzaimodejstviya/04-peremeshchenie-ravnouskorennoe.md"
+                },
+                {
+                  "id": "peryshkin-9-pervyj-zakon-nyutona",
+                  "title": "Первый закон Ньютона",
+                  "file": "peryshkin/09/zakony-vzaimodejstviya/05-pervyj-zakon-nyutona.md"
+                },
+                {
+                  "id": "peryshkin-9-vtoroj-zakon-nyutona",
+                  "title": "Второй закон Ньютона",
+                  "file": "peryshkin/09/zakony-vzaimodejstviya/06-vtoroj-zakon-nyutona.md"
+                },
+                {
+                  "id": "peryshkin-9-tretij-zakon-nyutona",
+                  "title": "Третий закон Ньютона",
+                  "file": "peryshkin/09/zakony-vzaimodejstviya/07-tretij-zakon-nyutona.md"
+                },
+                {
+                  "id": "peryshkin-9-svobodnoe-padenie",
+                  "title": "Свободное падение тел",
+                  "file": "peryshkin/09/zakony-vzaimodejstviya/08-svobodnoe-padenie.md"
+                },
+                {
+                  "id": "peryshkin-9-dvizhenie-po-okruzhnosti",
+                  "title": "Движение тела по окружности",
+                  "file": "peryshkin/09/zakony-vzaimodejstviya/09-dvizhenie-po-okruzhnosti.md"
+                },
+                {
+                  "id": "peryshkin-9-impuls-zakon-sohraneniya",
+                  "title": "Импульс тела. Закон сохранения импульса",
+                  "file": "peryshkin/09/zakony-vzaimodejstviya/10-impuls-zakon-sohraneniya.md"
+                },
+                {
+                  "id": "peryshkin-9-reaktivnoe-dvizhenie",
+                  "title": "Реактивное движение",
+                  "file": "peryshkin/09/zakony-vzaimodejstviya/11-reaktivnoe-dvizhenie.md"
+                },
+                {
+                  "id": "peryshkin-9-zakon-sohraneniya-energii",
+                  "title": "Закон сохранения механической энергии",
+                  "file": "peryshkin/09/zakony-vzaimodejstviya/12-zakon-sohraneniya-energii.md"
+                }
+              ]
+            },
+            {
+              "id": "kolebaniya-volny",
+              "title": "Механические колебания и волны. Звук",
+              "topics": [
+                {
+                  "id": "peryshkin-9-kolebatelnoe-dvizhenie-mayatniki",
+                  "title": "Колебательное движение. Маятники",
+                  "file": "peryshkin/09/kolebaniya-volny/01-kolebatelnoe-dvizhenie-mayatniki.md"
+                },
+                {
+                  "id": "peryshkin-9-garmonicheskie-kolebaniya",
+                  "title": "Гармонические колебания",
+                  "file": "peryshkin/09/kolebaniya-volny/02-garmonicheskie-kolebaniya.md"
+                },
+                {
+                  "id": "peryshkin-9-rezonans",
+                  "title": "Резонанс",
+                  "file": "peryshkin/09/kolebaniya-volny/03-rezonans.md"
+                },
+                {
+                  "id": "peryshkin-9-mehanicheskie-volny",
+                  "title": "Механические волны. Длина волны",
+                  "file": "peryshkin/09/kolebaniya-volny/04-mehanicheskie-volny.md"
+                },
+                {
+                  "id": "peryshkin-9-zvuk",
+                  "title": "Звук. Скорость звука",
+                  "file": "peryshkin/09/kolebaniya-volny/05-zvuk.md"
+                }
+              ]
+            },
+            {
+              "id": "elektromagnitnoe-pole",
+              "title": "Электромагнитное поле",
+              "topics": [
+                {
+                  "id": "peryshkin-9-magnitnoe-pole-indukciya",
+                  "title": "Магнитное поле. Индукция магнитного поля",
+                  "file": "peryshkin/09/elektromagnitnoe-pole/01-magnitnoe-pole-indukciya.md"
+                },
+                {
+                  "id": "peryshkin-9-elektromagnitnaya-indukciya",
+                  "title": "Электромагнитная индукция",
+                  "file": "peryshkin/09/elektromagnitnoe-pole/02-elektromagnitnaya-indukciya.md"
+                },
+                {
+                  "id": "peryshkin-9-elektromagnitnye-volny",
+                  "title": "Электромагнитные волны",
+                  "file": "peryshkin/09/elektromagnitnoe-pole/03-elektromagnitnye-volny.md"
+                }
+              ]
+            },
+            {
+              "id": "atomnoe-yadro",
+              "title": "Строение атома и атомного ядра",
+              "topics": [
+                {
+                  "id": "peryshkin-9-radioaktivnost",
+                  "title": "Радиоактивность. Модели атомов",
+                  "file": "peryshkin/09/atomnoe-yadro/01-radioaktivnost.md"
+                },
+                {
+                  "id": "peryshkin-9-stroenie-yadra-yadernye-reakcii",
+                  "title": "Строение атомного ядра. Ядерные реакции",
+                  "file": "peryshkin/09/atomnoe-yadro/02-stroenie-yadra-yadernye-reakcii.md"
+                }
+              ]
+            },
+            {
+              "id": "vselennaya",
+              "title": "Строение и эволюция Вселенной",
+              "topics": [
+                {
+                  "id": "peryshkin-9-vselennaya",
+                  "title": "Строение и эволюция Вселенной",
+                  "file": "peryshkin/09/vselennaya/01-vselennaya.md"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gendenshtein",
+      "title": "Физика. 7–9 классы",
+      "author": "Л. Э. Генденштейн, А. Б. Кайдалов",
+      "grades": [
+        {
+          "id": 7,
+          "title": "7 класс",
+          "sections": [
+            {
+              "id": "metodologiya",
+              "title": "Физика и физические методы изучения природы",
+              "topics": [
+                {
+                  "id": "gendenshtein-7-metodologiya",
+                  "title": "Физика и физические методы изучения природы",
+                  "file": "gendenshtein/07/metodologiya/01-metodologiya.md"
+                }
+              ]
+            },
+            {
+              "id": "stroenie",
+              "title": "Строение вещества",
+              "topics": [
+                {
+                  "id": "gendenshtein-7-stroenie",
+                  "title": "Строение вещества",
+                  "file": "gendenshtein/07/stroenie/01-stroenie.md"
+                }
+              ]
+            },
+            {
+              "id": "dvizhenie",
+              "title": "Движение и взаимодействие тел",
+              "topics": [
+                {
+                  "id": "gendenshtein-7-dvizhenie",
+                  "title": "Движение и взаимодействие тел",
+                  "file": "gendenshtein/07/dvizhenie/01-dvizhenie.md"
+                }
+              ]
+            },
+            {
+              "id": "davlenie",
+              "title": "Давление. Закон Архимеда и плавание тел",
+              "topics": [
+                {
+                  "id": "gendenshtein-7-davlenie",
+                  "title": "Давление. Закон Архимеда и плавание тел",
+                  "file": "gendenshtein/07/davlenie/01-davlenie.md"
+                }
+              ]
+            },
+            {
+              "id": "rabota",
+              "title": "Работа и энергия",
+              "topics": [
+                {
+                  "id": "gendenshtein-7-rabota",
+                  "title": "Работа и энергия",
+                  "file": "gendenshtein/07/rabota/01-rabota.md"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "title": "8 класс",
+          "sections": [
+            {
+              "id": "teplovye",
+              "title": "Тепловые явления",
+              "topics": [
+                {
+                  "id": "gendenshtein-8-teplovye",
+                  "title": "Тепловые явления",
+                  "file": "gendenshtein/08/teplovye/01-teplovye.md"
+                }
+              ]
+            },
+            {
+              "id": "elektromagnitnye",
+              "title": "Электромагнитные явления",
+              "topics": [
+                {
+                  "id": "gendenshtein-8-elektromagnitnye",
+                  "title": "Электромагнитные явления",
+                  "file": "gendenshtein/08/elektromagnitnye/01-elektromagnitnye.md"
+                }
+              ]
+            },
+            {
+              "id": "opticheskie",
+              "title": "Оптические явления",
+              "topics": [
+                {
+                  "id": "gendenshtein-8-opticheskie",
+                  "title": "Оптические явления",
+                  "file": "gendenshtein/08/opticheskie/01-opticheskie.md"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "title": "9 класс",
+          "sections": [
+            {
+              "id": "mehanicheskie",
+              "title": "Механические явления",
+              "topics": [
+                {
+                  "id": "gendenshtein-9-mehanicheskie",
+                  "title": "Механические явления",
+                  "file": "gendenshtein/09/mehanicheskie/01-mehanicheskie.md"
+                }
+              ]
+            },
+            {
+              "id": "atomy-zvezdy",
+              "title": "Атомы и звёзды",
+              "topics": [
+                {
+                  "id": "gendenshtein-9-atomy-zvezdy",
+                  "title": "Атомы и звёзды",
+                  "file": "gendenshtein/09/atomy-zvezdy/01-atomy-zvezdy.md"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "panebrattsev",
+      "title": "Физика. Инженеры будущего. 7–9 классы (углублённый уровень)",
+      "author": "В. В. Белага, Н. И. Воронцова, И. А. Ломаченков, Ю. А. Панебратцев; под ред. Ю. А. Панебратцева",
+      "grades": [
+        {
+          "id": 7,
+          "title": "7 класс",
+          "parts": [
+            {
+              "id": "chast-1",
+              "title": "Часть 1",
+              "sections": [
+                {
+                  "id": "fizika-i-mir",
+                  "title": "Физика и мир, в котором мы живём",
+                  "topics": [
+                    {
+                      "id": "panebrattsev-7-fizika-i-mir",
+                      "title": "Физика и мир, в котором мы живём",
+                      "file": "panebrattsev/07/chast-1/fizika-i-mir/01-fizika-i-mir.md"
+                    }
+                  ]
+                },
+                {
+                  "id": "stroenie-veshchestva",
+                  "title": "Строение вещества",
+                  "topics": [
+                    {
+                      "id": "panebrattsev-7-stroenie-veshchestva",
+                      "title": "Строение вещества",
+                      "file": "panebrattsev/07/chast-1/stroenie-veshchestva/01-stroenie-veshchestva.md"
+                    }
+                  ]
+                },
+                {
+                  "id": "dvizhenie-vzaimodejstvie",
+                  "title": "Механическое движение. Взаимодействие. Масса",
+                  "topics": [
+                    {
+                      "id": "panebrattsev-7-dvizhenie-vzaimodejstvie",
+                      "title": "Механическое движение. Взаимодействие. Масса",
+                      "file": "panebrattsev/07/chast-1/dvizhenie-vzaimodejstvie/01-dvizhenie-vzaimodejstvie.md"
+                    }
+                  ]
+                },
+                {
+                  "id": "sily-vokrug-nas",
+                  "title": "Силы вокруг нас",
+                  "topics": [
+                    {
+                      "id": "panebrattsev-7-sily-vokrug-nas",
+                      "title": "Силы вокруг нас",
+                      "file": "panebrattsev/07/chast-1/sily-vokrug-nas/01-sily-vokrug-nas.md"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "chast-2",
+              "title": "Часть 2",
+              "sections": [
+                {
+                  "id": "davlenie",
+                  "title": "Давление твёрдых тел, жидкостей и газов",
+                  "topics": [
+                    {
+                      "id": "panebrattsev-7-davlenie",
+                      "title": "Давление твёрдых тел, жидкостей и газов",
+                      "file": "panebrattsev/07/chast-2/davlenie/01-davlenie.md"
+                    }
+                  ]
+                },
+                {
+                  "id": "atmosfera",
+                  "title": "Атмосфера и атмосферное давление",
+                  "topics": [
+                    {
+                      "id": "panebrattsev-7-atmosfera",
+                      "title": "Атмосфера и атмосферное давление",
+                      "file": "panebrattsev/07/chast-2/atmosfera/01-atmosfera.md"
+                    }
+                  ]
+                },
+                {
+                  "id": "arhimed",
+                  "title": "Закон Архимеда. Плавание тел",
+                  "topics": [
+                    {
+                      "id": "panebrattsev-7-arhimed",
+                      "title": "Закон Архимеда. Плавание тел",
+                      "file": "panebrattsev/07/chast-2/arhimed/01-arhimed.md"
+                    }
+                  ]
+                },
+                {
+                  "id": "rabota-energiya",
+                  "title": "Работа, мощность, энергия",
+                  "topics": [
+                    {
+                      "id": "panebrattsev-7-rabota-energiya",
+                      "title": "Работа, мощность, энергия",
+                      "file": "panebrattsev/07/chast-2/rabota-energiya/01-rabota-energiya.md"
+                    }
+                  ]
+                },
+                {
+                  "id": "prostye-mehanizmy",
+                  "title": "Простые механизмы. «Золотое правило» механики",
+                  "topics": [
+                    {
+                      "id": "panebrattsev-7-prostye-mehanizmy",
+                      "title": "Простые механизмы. «Золотое правило» механики",
+                      "file": "panebrattsev/07/chast-2/prostye-mehanizmy/01-prostye-mehanizmy.md"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "title": "8 класс",
+          "parts": [
+            {
+              "id": "chast-1",
+              "title": "Часть 1",
+              "sections": [
+                {
+                  "id": "stroenie-teplovye",
+                  "title": "Строение и свойства вещества. Тепловые явления",
+                  "topics": [
+                    {
+                      "id": "panebrattsev-8-stroenie-teplovye",
+                      "title": "Строение и свойства вещества. Тепловые явления",
+                      "file": "panebrattsev/08/chast-1/stroenie-teplovye/01-stroenie-teplovye.md"
+                    }
+                  ]
+                },
+                {
+                  "id": "agregatnye",
+                  "title": "Изменения агрегатного состояния вещества",
+                  "topics": [
+                    {
+                      "id": "panebrattsev-8-agregatnye",
+                      "title": "Изменения агрегатного состояния вещества",
+                      "file": "panebrattsev/08/chast-1/agregatnye/01-agregatnye.md"
+                    }
+                  ]
+                },
+                {
+                  "id": "teplovye-dvigateli",
+                  "title": "Тепловые двигатели",
+                  "topics": [
+                    {
+                      "id": "panebrattsev-8-teplovye-dvigateli",
+                      "title": "Тепловые двигатели",
+                      "file": "panebrattsev/08/chast-1/teplovye-dvigateli/01-teplovye-dvigateli.md"
+                    }
+                  ]
+                },
+                {
+                  "id": "zaryad-pole",
+                  "title": "Электрический заряд. Электрическое поле",
+                  "topics": [
+                    {
+                      "id": "panebrattsev-8-zaryad-pole",
+                      "title": "Электрический заряд. Электрическое поле",
+                      "file": "panebrattsev/08/chast-1/zaryad-pole/01-zaryad-pole.md"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "chast-2",
+              "title": "Часть 2",
+              "sections": [
+                {
+                  "id": "tok",
+                  "title": "Электрический ток",
+                  "topics": [
+                    {
+                      "id": "panebrattsev-8-tok",
+                      "title": "Электрический ток",
+                      "file": "panebrattsev/08/chast-2/tok/01-tok.md"
+                    }
+                  ]
+                },
+                {
+                  "id": "cepi",
+                  "title": "Характеристики электрических цепей",
+                  "topics": [
+                    {
+                      "id": "panebrattsev-8-cepi",
+                      "title": "Характеристики электрических цепей",
+                      "file": "panebrattsev/08/chast-2/cepi/01-cepi.md"
+                    }
+                  ]
+                },
+                {
+                  "id": "magnitnoe-pole",
+                  "title": "Магнитное поле",
+                  "topics": [
+                    {
+                      "id": "panebrattsev-8-magnitnoe-pole",
+                      "title": "Магнитное поле",
+                      "file": "panebrattsev/08/chast-2/magnitnoe-pole/01-magnitnoe-pole.md"
+                    }
+                  ]
+                },
+                {
+                  "id": "elektromagnitnye",
+                  "title": "Электромагнитные явления",
+                  "topics": [
+                    {
+                      "id": "panebrattsev-8-elektromagnitnye",
+                      "title": "Электромагнитные явления",
+                      "file": "panebrattsev/08/chast-2/elektromagnitnye/01-elektromagnitnye.md"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "title": "9 класс",
+          "parts": [
+            {
+              "id": "chast-1",
+              "title": "Часть 1",
+              "sections": [
+                {
+                  "id": "kinematika",
+                  "title": "Основы кинематики",
+                  "topics": [
+                    {
+                      "id": "panebrattsev-9-kinematika",
+                      "title": "Основы кинематики",
+                      "file": "panebrattsev/09/chast-1/kinematika/01-kinematika.md"
+                    }
+                  ]
+                },
+                {
+                  "id": "dinamika",
+                  "title": "Основы динамики",
+                  "topics": [
+                    {
+                      "id": "panebrattsev-9-dinamika",
+                      "title": "Основы динамики",
+                      "file": "panebrattsev/09/chast-1/dinamika/01-dinamika.md"
+                    }
+                  ]
+                },
+                {
+                  "id": "statika",
+                  "title": "Основы статики",
+                  "topics": [
+                    {
+                      "id": "panebrattsev-9-statika",
+                      "title": "Основы статики",
+                      "file": "panebrattsev/09/chast-1/statika/01-statika.md"
+                    }
+                  ]
+                },
+                {
+                  "id": "mehanika-zhidkostej",
+                  "title": "Механика жидкостей и газов",
+                  "topics": [
+                    {
+                      "id": "panebrattsev-9-mehanika-zhidkostej",
+                      "title": "Механика жидкостей и газов",
+                      "file": "panebrattsev/09/chast-1/mehanika-zhidkostej/01-mehanika-zhidkostej.md"
+                    }
+                  ]
+                },
+                {
+                  "id": "zakony-sohraneniya",
+                  "title": "Законы сохранения энергии и импульса в механике",
+                  "topics": [
+                    {
+                      "id": "panebrattsev-9-zakony-sohraneniya",
+                      "title": "Законы сохранения энергии и импульса в механике",
+                      "file": "panebrattsev/09/chast-1/zakony-sohraneniya/01-zakony-sohraneniya.md"
+                    }
+                  ]
+                },
+                {
+                  "id": "mehanicheskie-kolebaniya",
+                  "title": "Механические колебания и волны",
+                  "topics": [
+                    {
+                      "id": "panebrattsev-9-mehanicheskie-kolebaniya",
+                      "title": "Механические колебания и волны",
+                      "file": "panebrattsev/09/chast-1/mehanicheskie-kolebaniya/01-mehanicheskie-kolebaniya.md"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "chast-2",
+              "title": "Часть 2",
+              "sections": [
+                {
+                  "id": "zvuk",
+                  "title": "Звук",
+                  "topics": [
+                    {
+                      "id": "panebrattsev-9-zvuk",
+                      "title": "Звук",
+                      "file": "panebrattsev/09/chast-2/zvuk/01-zvuk.md"
+                    }
+                  ]
+                },
+                {
+                  "id": "elektromagnitnye-kolebaniya",
+                  "title": "Электромагнитные колебания и волны",
+                  "topics": [
+                    {
+                      "id": "panebrattsev-9-elektromagnitnye-kolebaniya",
+                      "title": "Электромагнитные колебания и волны",
+                      "file": "panebrattsev/09/chast-2/elektromagnitnye-kolebaniya/01-elektromagnitnye-kolebaniya.md"
+                    }
+                  ]
+                },
+                {
+                  "id": "geometricheskaya-optika",
+                  "title": "Геометрическая оптика",
+                  "topics": [
+                    {
+                      "id": "panebrattsev-9-geometricheskaya-optika",
+                      "title": "Геометрическая оптика",
+                      "file": "panebrattsev/09/chast-2/geometricheskaya-optika/01-geometricheskaya-optika.md"
+                    }
+                  ]
+                },
+                {
+                  "id": "priroda-sveta",
+                  "title": "Электромагнитная природа света",
+                  "topics": [
+                    {
+                      "id": "panebrattsev-9-priroda-sveta",
+                      "title": "Электромагнитная природа света",
+                      "file": "panebrattsev/09/chast-2/priroda-sveta/01-priroda-sveta.md"
+                    }
+                  ]
+                },
+                {
+                  "id": "kvanty-atom",
+                  "title": "Световые кванты. Строение атома",
+                  "topics": [
+                    {
+                      "id": "panebrattsev-9-kvanty-atom",
+                      "title": "Световые кванты. Строение атома",
+                      "file": "panebrattsev/09/chast-2/kvanty-atom/01-kvanty-atom.md"
+                    }
+                  ]
+                },
+                {
+                  "id": "yadro",
+                  "title": "Физика атомного ядра. Ядерные реакции",
+                  "topics": [
+                    {
+                      "id": "panebrattsev-9-yadro",
+                      "title": "Физика атомного ядра. Ядерные реакции",
+                      "file": "panebrattsev/09/chast-2/yadro/01-yadro.md"
+                    }
+                  ]
+                },
+                {
+                  "id": "astronomiya",
+                  "title": "Астрономия. Строение Вселенной",
+                  "topics": [
+                    {
+                      "id": "panebrattsev-9-astronomiya",
+                      "title": "Астрономия. Строение Вселенной",
+                      "file": "panebrattsev/09/chast-2/astronomiya/01-astronomiya.md"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "myakishev",
+      "title": "Физика. 10–11 классы (базовый и углублённый уровни)",
+      "author": "Г. Я. Мякишев, Б. Б. Буховцев, Н. Н. Сотский (10 класс); В. М. Чаругин (11 класс); под ред. Н. А. Парфентьевой",
+      "grades": [
+        {
+          "id": 10,
+          "title": "10 класс",
+          "sections": [
+            {
+              "id": "kinematika",
+              "title": "Кинематика точки и твёрдого тела",
+              "topics": [
+                {
+                  "id": "myakishev-10-kinematika",
+                  "title": "Кинематика точки и твёрдого тела",
+                  "file": "myakishev/10/kinematika/01-kinematika.md"
+                }
+              ]
+            },
+            {
+              "id": "zakony-nyutona",
+              "title": "Законы механики Ньютона",
+              "topics": [
+                {
+                  "id": "myakishev-10-zakony-nyutona",
+                  "title": "Законы механики Ньютона",
+                  "file": "myakishev/10/zakony-nyutona/01-zakony-nyutona.md"
+                }
+              ]
+            },
+            {
+              "id": "sily-v-mehanike",
+              "title": "Силы в механике",
+              "topics": [
+                {
+                  "id": "myakishev-10-sily-v-mehanike",
+                  "title": "Силы в механике",
+                  "file": "myakishev/10/sily-v-mehanike/01-sily-v-mehanike.md"
+                }
+              ]
+            },
+            {
+              "id": "zakony-sohraneniya",
+              "title": "Законы сохранения в механике",
+              "topics": [
+                {
+                  "id": "myakishev-10-zakony-sohraneniya",
+                  "title": "Законы сохранения в механике",
+                  "file": "myakishev/10/zakony-sohraneniya/01-zakony-sohraneniya.md"
+                }
+              ]
+            },
+            {
+              "id": "dinamika-vrashcheniya",
+              "title": "Динамика вращательного движения абсолютно твёрдого тела",
+              "topics": [
+                {
+                  "id": "myakishev-10-dinamika-vrashcheniya",
+                  "title": "Динамика вращательного движения абсолютно твёрдого тела",
+                  "file": "myakishev/10/dinamika-vrashcheniya/01-dinamika-vrashcheniya.md"
+                }
+              ]
+            },
+            {
+              "id": "ravnovesie",
+              "title": "Равновесие абсолютно твёрдых тел",
+              "topics": [
+                {
+                  "id": "myakishev-10-ravnovesie",
+                  "title": "Равновесие абсолютно твёрдых тел",
+                  "file": "myakishev/10/ravnovesie/01-ravnovesie.md"
+                }
+              ]
+            },
+            {
+              "id": "gidrostatika",
+              "title": "Элементы гидростатики и гидродинамики",
+              "topics": [
+                {
+                  "id": "myakishev-10-gidrostatika",
+                  "title": "Элементы гидростатики и гидродинамики",
+                  "file": "myakishev/10/gidrostatika/01-gidrostatika.md"
+                }
+              ]
+            },
+            {
+              "id": "osnovy-mkt",
+              "title": "Основы молекулярно-кинетической теории",
+              "topics": [
+                {
+                  "id": "myakishev-10-osnovy-mkt",
+                  "title": "Основы молекулярно-кинетической теории",
+                  "file": "myakishev/10/osnovy-mkt/01-osnovy-mkt.md"
+                }
+              ]
+            },
+            {
+              "id": "mkt-gaza",
+              "title": "Молекулярно-кинетическая теория идеального газа",
+              "topics": [
+                {
+                  "id": "myakishev-10-mkt-gaza",
+                  "title": "Молекулярно-кинетическая теория идеального газа",
+                  "file": "myakishev/10/mkt-gaza/01-mkt-gaza.md"
+                }
+              ]
+            },
+            {
+              "id": "uravnenie-sostoyaniya",
+              "title": "Уравнение состояния идеального газа. Газовые законы",
+              "topics": [
+                {
+                  "id": "myakishev-10-uravnenie-sostoyaniya",
+                  "title": "Уравнение состояния идеального газа. Газовые законы",
+                  "file": "myakishev/10/uravnenie-sostoyaniya/01-uravnenie-sostoyaniya.md"
+                }
+              ]
+            },
+            {
+              "id": "prevrashcheniya-zhidkostej",
+              "title": "Взаимные превращения жидкостей и газов",
+              "topics": [
+                {
+                  "id": "myakishev-10-prevrashcheniya-zhidkostej",
+                  "title": "Взаимные превращения жидкостей и газов",
+                  "file": "myakishev/10/prevrashcheniya-zhidkostej/01-prevrashcheniya-zhidkostej.md"
+                }
+              ]
+            },
+            {
+              "id": "zhidkosti-tverdye",
+              "title": "Жидкости и твёрдые тела",
+              "topics": [
+                {
+                  "id": "myakishev-10-zhidkosti-tverdye",
+                  "title": "Жидкости и твёрдые тела",
+                  "file": "myakishev/10/zhidkosti-tverdye/01-zhidkosti-tverdye.md"
+                }
+              ]
+            },
+            {
+              "id": "termodinamika",
+              "title": "Основы термодинамики",
+              "topics": [
+                {
+                  "id": "myakishev-10-termodinamika",
+                  "title": "Основы термодинамики",
+                  "file": "myakishev/10/termodinamika/01-termodinamika.md"
+                }
+              ]
+            },
+            {
+              "id": "elektrostatika",
+              "title": "Электростатика",
+              "topics": [
+                {
+                  "id": "myakishev-10-elektrostatika",
+                  "title": "Электростатика",
+                  "file": "myakishev/10/elektrostatika/01-elektrostatika.md"
+                }
+              ]
+            },
+            {
+              "id": "postoyannyj-tok",
+              "title": "Законы постоянного тока",
+              "topics": [
+                {
+                  "id": "myakishev-10-postoyannyj-tok",
+                  "title": "Законы постоянного тока",
+                  "file": "myakishev/10/postoyannyj-tok/01-postoyannyj-tok.md"
+                }
+              ]
+            },
+            {
+              "id": "tok-v-sredah",
+              "title": "Электрический ток в различных средах",
+              "topics": [
+                {
+                  "id": "myakishev-10-tok-v-sredah",
+                  "title": "Электрический ток в различных средах",
+                  "file": "myakishev/10/tok-v-sredah/01-tok-v-sredah.md"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "title": "11 класс",
+          "sections": [
+            {
+              "id": "magnitnoe-pole",
+              "title": "Магнитное поле",
+              "topics": [
+                {
+                  "id": "myakishev-11-magnitnoe-pole",
+                  "title": "Магнитное поле",
+                  "file": "myakishev/11/magnitnoe-pole/01-magnitnoe-pole.md"
+                }
+              ]
+            },
+            {
+              "id": "elektromagnitnaya-indukciya",
+              "title": "Электромагнитная индукция",
+              "topics": [
+                {
+                  "id": "myakishev-11-elektromagnitnaya-indukciya",
+                  "title": "Электромагнитная индукция",
+                  "file": "myakishev/11/elektromagnitnaya-indukciya/01-elektromagnitnaya-indukciya.md"
+                }
+              ]
+            },
+            {
+              "id": "mehanicheskie-kolebaniya",
+              "title": "Механические колебания",
+              "topics": [
+                {
+                  "id": "myakishev-11-mehanicheskie-kolebaniya",
+                  "title": "Механические колебания",
+                  "file": "myakishev/11/mehanicheskie-kolebaniya/01-mehanicheskie-kolebaniya.md"
+                }
+              ]
+            },
+            {
+              "id": "elektromagnitnye-kolebaniya",
+              "title": "Электромагнитные колебания",
+              "topics": [
+                {
+                  "id": "myakishev-11-elektromagnitnye-kolebaniya",
+                  "title": "Электромагнитные колебания",
+                  "file": "myakishev/11/elektromagnitnye-kolebaniya/01-elektromagnitnye-kolebaniya.md"
+                }
+              ]
+            },
+            {
+              "id": "mehanicheskie-volny",
+              "title": "Механические волны",
+              "topics": [
+                {
+                  "id": "myakishev-11-mehanicheskie-volny",
+                  "title": "Механические волны",
+                  "file": "myakishev/11/mehanicheskie-volny/01-mehanicheskie-volny.md"
+                }
+              ]
+            },
+            {
+              "id": "elektromagnitnye-volny",
+              "title": "Электромагнитные волны",
+              "topics": [
+                {
+                  "id": "myakishev-11-elektromagnitnye-volny",
+                  "title": "Электромагнитные волны",
+                  "file": "myakishev/11/elektromagnitnye-volny/01-elektromagnitnye-volny.md"
+                }
+              ]
+            },
+            {
+              "id": "svetovye-volny",
+              "title": "Световые волны",
+              "topics": [
+                {
+                  "id": "myakishev-11-svetovye-volny",
+                  "title": "Световые волны",
+                  "file": "myakishev/11/svetovye-volny/01-svetovye-volny.md"
+                }
+              ]
+            },
+            {
+              "id": "teoriya-otnositelnosti",
+              "title": "Элементы теории относительности",
+              "topics": [
+                {
+                  "id": "myakishev-11-teoriya-otnositelnosti",
+                  "title": "Элементы теории относительности",
+                  "file": "myakishev/11/teoriya-otnositelnosti/01-teoriya-otnositelnosti.md"
+                }
+              ]
+            },
+            {
+              "id": "izluchenie-spektry",
+              "title": "Излучение и спектры",
+              "topics": [
+                {
+                  "id": "myakishev-11-izluchenie-spektry",
+                  "title": "Излучение и спектры",
+                  "file": "myakishev/11/izluchenie-spektry/01-izluchenie-spektry.md"
+                }
+              ]
+            },
+            {
+              "id": "svetovye-kvanty",
+              "title": "Световые кванты",
+              "topics": [
+                {
+                  "id": "myakishev-11-svetovye-kvanty",
+                  "title": "Световые кванты",
+                  "file": "myakishev/11/svetovye-kvanty/01-svetovye-kvanty.md"
+                }
+              ]
+            },
+            {
+              "id": "atomnaya-fizika",
+              "title": "Атомная физика",
+              "topics": [
+                {
+                  "id": "myakishev-11-atomnaya-fizika",
+                  "title": "Атомная физика",
+                  "file": "myakishev/11/atomnaya-fizika/01-atomnaya-fizika.md"
+                }
+              ]
+            },
+            {
+              "id": "atomnoe-yadro",
+              "title": "Физика атомного ядра",
+              "topics": [
+                {
+                  "id": "myakishev-11-atomnoe-yadro",
+                  "title": "Физика атомного ядра",
+                  "file": "myakishev/11/atomnoe-yadro/01-atomnoe-yadro.md"
+                }
+              ]
+            },
+            {
+              "id": "elementarnye-chasticy",
+              "title": "Элементарные частицы",
+              "topics": [
+                {
+                  "id": "myakishev-11-elementarnye-chasticy",
+                  "title": "Элементарные частицы",
+                  "file": "myakishev/11/elementarnye-chasticy/01-elementarnye-chasticy.md"
+                }
+              ]
+            },
+            {
+              "id": "solnechnaya-sistema",
+              "title": "Солнечная система",
+              "topics": [
+                {
+                  "id": "myakishev-11-solnechnaya-sistema",
+                  "title": "Солнечная система",
+                  "file": "myakishev/11/solnechnaya-sistema/01-solnechnaya-sistema.md"
+                }
+              ]
+            },
+            {
+              "id": "solnce-zvezdy",
+              "title": "Солнце и звёзды",
+              "topics": [
+                {
+                  "id": "myakishev-11-solnce-zvezdy",
+                  "title": "Солнце и звёзды",
+                  "file": "myakishev/11/solnce-zvezdy/01-solnce-zvezdy.md"
+                }
+              ]
+            },
+            {
+              "id": "stroenie-vselennoj",
+              "title": "Строение Вселенной",
+              "topics": [
+                {
+                  "id": "myakishev-11-stroenie-vselennoj",
+                  "title": "Строение Вселенной",
+                  "file": "myakishev/11/stroenie-vselennoj/01-stroenie-vselennoj.md"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kasyanov",
+      "title": "Физика. 10–11 классы (углублённый уровень)",
+      "author": "В. А. Касьянов",
+      "grades": [
+        {
+          "id": 10,
+          "title": "10 класс",
+          "sections": [
+            {
+              "id": "vvedenie",
+              "title": "Физика в познании вещества, поля, пространства и времени",
+              "topics": [
+                {
+                  "id": "kasyanov-10-fizika-v-poznanii",
+                  "title": "Физика в познании вещества, поля, пространства и времени",
+                  "file": "kasyanov/10/vvedenie/01-fizika-v-poznanii.md"
+                }
+              ]
+            },
+            {
+              "id": "kinematika-tochki",
+              "title": "Кинематика материальной точки",
+              "topics": [
+                {
+                  "id": "kasyanov-10-kinematika-tochki",
+                  "title": "Кинематика материальной точки",
+                  "file": "kasyanov/10/kinematika-tochki/01-kinematika-tochki.md"
+                }
+              ]
+            },
+            {
+              "id": "dinamika-tochki",
+              "title": "Динамика материальной точки",
+              "topics": [
+                {
+                  "id": "kasyanov-10-dinamika-tochki",
+                  "title": "Динамика материальной точки",
+                  "file": "kasyanov/10/dinamika-tochki/01-dinamika-tochki.md"
+                }
+              ]
+            },
+            {
+              "id": "zakony-sohraneniya",
+              "title": "Законы сохранения",
+              "topics": [
+                {
+                  "id": "kasyanov-10-zakony-sohraneniya",
+                  "title": "Законы сохранения",
+                  "file": "kasyanov/10/zakony-sohraneniya/01-zakony-sohraneniya.md"
+                }
+              ]
+            },
+            {
+              "id": "dinamika-periodicheskogo",
+              "title": "Динамика периодического движения",
+              "topics": [
+                {
+                  "id": "kasyanov-10-dinamika-periodicheskogo",
+                  "title": "Динамика периодического движения",
+                  "file": "kasyanov/10/dinamika-periodicheskogo/01-dinamika-periodicheskogo.md"
+                }
+              ]
+            },
+            {
+              "id": "statika",
+              "title": "Статика",
+              "topics": [
+                {
+                  "id": "kasyanov-10-statika",
+                  "title": "Статика",
+                  "file": "kasyanov/10/statika/01-statika.md"
+                }
+              ]
+            },
+            {
+              "id": "relyativistskaya-mehanika",
+              "title": "Релятивистская механика",
+              "topics": [
+                {
+                  "id": "kasyanov-10-relyativistskaya-mehanika",
+                  "title": "Релятивистская механика",
+                  "file": "kasyanov/10/relyativistskaya-mehanika/01-relyativistskaya-mehanika.md"
+                }
+              ]
+            },
+            {
+              "id": "molekulyarnaya-struktura",
+              "title": "Молекулярная структура вещества",
+              "topics": [
+                {
+                  "id": "kasyanov-10-molekulyarnaya-struktura",
+                  "title": "Молекулярная структура вещества",
+                  "file": "kasyanov/10/molekulyarnaya-struktura/01-molekulyarnaya-struktura.md"
+                }
+              ]
+            },
+            {
+              "id": "mkt-idealnogo-gaza",
+              "title": "Молекулярно-кинетическая теория идеального газа",
+              "topics": [
+                {
+                  "id": "kasyanov-10-mkt-idealnogo-gaza",
+                  "title": "Молекулярно-кинетическая теория идеального газа",
+                  "file": "kasyanov/10/mkt-idealnogo-gaza/01-mkt-idealnogo-gaza.md"
+                }
+              ]
+            },
+            {
+              "id": "termodinamika",
+              "title": "Термодинамика",
+              "topics": [
+                {
+                  "id": "kasyanov-10-termodinamika",
+                  "title": "Термодинамика",
+                  "file": "kasyanov/10/termodinamika/01-termodinamika.md"
+                }
+              ]
+            },
+            {
+              "id": "zhidkost-i-par",
+              "title": "Жидкость и пар",
+              "topics": [
+                {
+                  "id": "kasyanov-10-zhidkost-i-par",
+                  "title": "Жидкость и пар",
+                  "file": "kasyanov/10/zhidkost-i-par/01-zhidkost-i-par.md"
+                }
+              ]
+            },
+            {
+              "id": "tverdoe-telo",
+              "title": "Твёрдое тело",
+              "topics": [
+                {
+                  "id": "kasyanov-10-tverdoe-telo",
+                  "title": "Твёрдое тело",
+                  "file": "kasyanov/10/tverdoe-telo/01-tverdoe-telo.md"
+                }
+              ]
+            },
+            {
+              "id": "mehanicheskie-volny",
+              "title": "Механические волны. Акустика",
+              "topics": [
+                {
+                  "id": "kasyanov-10-mehanicheskie-volny",
+                  "title": "Механические волны. Акустика",
+                  "file": "kasyanov/10/mehanicheskie-volny/01-mehanicheskie-volny.md"
+                }
+              ]
+            },
+            {
+              "id": "sily-elektromagnitnogo",
+              "title": "Силы электромагнитного взаимодействия неподвижных зарядов",
+              "topics": [
+                {
+                  "id": "kasyanov-10-sily-elektromagnitnogo",
+                  "title": "Силы электромагнитного взаимодействия неподвижных зарядов",
+                  "file": "kasyanov/10/sily-elektromagnitnogo/01-sily-elektromagnitnogo.md"
+                }
+              ]
+            },
+            {
+              "id": "energiya-elektromagnitnogo",
+              "title": "Энергия электромагнитного взаимодействия неподвижных зарядов",
+              "topics": [
+                {
+                  "id": "kasyanov-10-energiya-elektromagnitnogo",
+                  "title": "Энергия электромагнитного взаимодействия неподвижных зарядов",
+                  "file": "kasyanov/10/energiya-elektromagnitnogo/01-energiya-elektromagnitnogo.md"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "title": "11 класс",
+          "sections": [
+            {
+              "id": "postoyannyj-tok",
+              "title": "Постоянный электрический ток",
+              "topics": [
+                {
+                  "id": "kasyanov-11-postoyannyj-tok",
+                  "title": "Постоянный электрический ток",
+                  "file": "kasyanov/11/postoyannyj-tok/01-postoyannyj-tok.md"
+                }
+              ]
+            },
+            {
+              "id": "magnitnoe-pole",
+              "title": "Магнитное поле",
+              "topics": [
+                {
+                  "id": "kasyanov-11-magnitnoe-pole",
+                  "title": "Магнитное поле",
+                  "file": "kasyanov/11/magnitnoe-pole/01-magnitnoe-pole.md"
+                }
+              ]
+            },
+            {
+              "id": "elektromagnetizm",
+              "title": "Электромагнетизм",
+              "topics": [
+                {
+                  "id": "kasyanov-11-elektromagnetizm",
+                  "title": "Электромагнетизм",
+                  "file": "kasyanov/11/elektromagnetizm/01-elektromagnetizm.md"
+                }
+              ]
+            },
+            {
+              "id": "cepi-peremennogo-toka",
+              "title": "Цепи переменного тока",
+              "topics": [
+                {
+                  "id": "kasyanov-11-cepi-peremennogo-toka",
+                  "title": "Цепи переменного тока",
+                  "file": "kasyanov/11/cepi-peremennogo-toka/01-cepi-peremennogo-toka.md"
+                }
+              ]
+            },
+            {
+              "id": "izluchenie-priem-voln",
+              "title": "Излучение и приём электромагнитных волн",
+              "topics": [
+                {
+                  "id": "kasyanov-11-izluchenie-priem-voln",
+                  "title": "Излучение и приём электромагнитных волн",
+                  "file": "kasyanov/11/izluchenie-priem-voln/01-izluchenie-priem-voln.md"
+                }
+              ]
+            },
+            {
+              "id": "geometricheskaya-optika",
+              "title": "Геометрическая оптика",
+              "topics": [
+                {
+                  "id": "kasyanov-11-geometricheskaya-optika",
+                  "title": "Геометрическая оптика",
+                  "file": "kasyanov/11/geometricheskaya-optika/01-geometricheskaya-optika.md"
+                }
+              ]
+            },
+            {
+              "id": "volnovaya-optika",
+              "title": "Волновая оптика",
+              "topics": [
+                {
+                  "id": "kasyanov-11-volnovaya-optika",
+                  "title": "Волновая оптика",
+                  "file": "kasyanov/11/volnovaya-optika/01-volnovaya-optika.md"
+                }
+              ]
+            },
+            {
+              "id": "kvantovaya-teoriya",
+              "title": "Квантовая теория электромагнитного излучения и вещества",
+              "topics": [
+                {
+                  "id": "kasyanov-11-kvantovaya-teoriya",
+                  "title": "Квантовая теория электромагнитного излучения и вещества",
+                  "file": "kasyanov/11/kvantovaya-teoriya/01-kvantovaya-teoriya.md"
+                }
+              ]
+            },
+            {
+              "id": "atomnoe-yadro",
+              "title": "Физика атомного ядра",
+              "topics": [
+                {
+                  "id": "kasyanov-11-atomnoe-yadro",
+                  "title": "Физика атомного ядра",
+                  "file": "kasyanov/11/atomnoe-yadro/01-atomnoe-yadro.md"
+                }
+              ]
+            },
+            {
+              "id": "elementarnye-chasticy",
+              "title": "Элементарные частицы",
+              "topics": [
+                {
+                  "id": "kasyanov-11-elementarnye-chasticy",
+                  "title": "Элементарные частицы",
+                  "file": "kasyanov/11/elementarnye-chasticy/01-elementarnye-chasticy.md"
+                }
+              ]
+            },
+            {
+              "id": "evolyuciya-vselennoj",
+              "title": "Эволюция Вселенной",
+              "topics": [
+                {
+                  "id": "kasyanov-11-evolyuciya-vselennoj",
+                  "title": "Эволюция Вселенной",
+                  "file": "kasyanov/11/evolyuciya-vselennoj/01-evolyuciya-vselennoj.md"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
