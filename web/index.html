@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>Конспекты по физике</title>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css"
+    />
+    <link rel="stylesheet" href="/static/styles.css" />
+    <script src="https://telegram.org/js/telegram-web-app.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked@14.1.2/marked.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
+    <script
+      defer
+      src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js"
+    ></script>
+  </head>
+  <body>
+    <div id="topbar">
+      <header id="header">
+        <button id="back" hidden aria-label="Назад">←</button>
+        <h1 id="title">Физика</h1>
+        <button id="search-button" aria-label="Поиск">Поиск</button>
+      </header>
+      <div id="mode" hidden>
+        <button type="button" data-mode="konspekt" class="active">Конспект</button>
+        <button type="button" data-mode="retelling">Краткий пересказ</button>
+      </div>
+    </div>
+    <main id="view"></main>
+    <div id="loader">
+      <div class="loader-track"><div id="loader-fill"></div></div>
+    </div>
+    <script src="/static/app.js"></script>
+  </body>
+</html>
