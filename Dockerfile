@@ -7,4 +7,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . .
 
-CMD ["bash", "-c", "uvicorn api.main:app --host 0.0.0.0 --port ${PORT:-8000} & while true; do python -m bot.main; sleep 3; done"]
+CMD ["sh", "-c", "(while true; do python -m bot.main; sleep 3; done) & exec uvicorn api.main:app --host 0.0.0.0 --port ${PORT:-8000}"]
