@@ -4,7 +4,7 @@ from contextlib import asynccontextmanager
 from functools import lru_cache
 from pathlib import Path
 
-from fastapi import Depends, FastAPI, HTTPException, Query
+from fastapi import Depends, FastAPI, HTTPException, Query, Response
 from fastapi.responses import FileResponse
 from fastapi.staticfiles import StaticFiles
 
@@ -38,6 +38,11 @@ app = FastAPI(title="Physics Notes API", lifespan=lifespan)
 @app.get("/health")
 def health() -> dict[str, str]:
     return {"status": "ok"}
+
+
+@app.head("/health")
+def health_head() -> Response:
+    return Response(status_code=200)
 
 
 @app.get("/api/textbooks", response_model=TextbooksResponse)
@@ -81,6 +86,11 @@ def search(
 @app.get("/")
 def index() -> FileResponse:
     return FileResponse(WEB_DIR / "index.html")
+
+
+@app.head("/")
+def index_head() -> Response:
+    return Response(status_code=200)
 
 
 app.mount("/static", StaticFiles(directory=WEB_DIR), name="static")
